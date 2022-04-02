@@ -24,4 +24,4 @@ Además de proyectos varios como:
 *¿Tienes código de probabilidad, de estadística inferencial, de cálculo vectorial, de EDPs o algún otro tema relacionado con la ingeniería/ciencia?*
 Colabora con nosotros para que todos podamos aprender y mejorar con tu ayuda.
 
-#### ¡Gracias por el interés en este repositorio y felicitaciones por continuar aprendiendo, programador/a! ¡Tú puedes, ánimo! ❤️
+**¡Gracias por el interés en este repositorio y felicitaciones por continuar aprendiendo, programador/a! ¡Tú puedes, ánimo! ❤️**
